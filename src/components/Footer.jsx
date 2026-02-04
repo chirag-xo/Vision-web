@@ -1,4 +1,7 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
+
+import logo from '../assets/vision-logo.png';
 
 const Footer = () => {
     return (
@@ -12,7 +15,7 @@ const Footer = () => {
                 <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))', gap: '2rem' }}>
                     <div>
                         <img
-                            src="/src/assets/vision-logo.png"
+                            src={logo}
                             alt="Vision Metal Aids"
                             style={{ height: '60px', width: 'auto', marginBottom: '1rem', background: 'white', padding: '5px', borderRadius: '4px' }}
                         />
@@ -20,10 +23,10 @@ const Footer = () => {
                     </div>
                     <div>
                         <h4>Quick Links</h4>
-                        <ul style={{ marginTop: '1rem' }}>
-                            <li>Products</li>
-                            <li>Infrastructure</li>
-                            <li>Contact Us</li>
+                        <ul style={{ marginTop: '1rem', listStyle: 'none', padding: 0 }}>
+                            <li style={{ marginBottom: '0.5rem' }}><Link to="/products" style={{ color: 'white', textDecoration: 'none' }}>Products</Link></li>
+                            <li style={{ marginBottom: '0.5rem' }}><Link to="/infrastructure" style={{ color: 'white', textDecoration: 'none' }}>Infrastructure</Link></li>
+                            <li style={{ marginBottom: '0.5rem' }}><Link to="/contact" style={{ color: 'white', textDecoration: 'none' }}>Contact Us</Link></li>
                         </ul>
                     </div>
                     <div>

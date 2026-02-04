@@ -1,6 +1,8 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 
+import logo from '../assets/vision-logo.png';
+
 const Navbar = () => {
     const [isOpen, setIsOpen] = useState(false);
 
@@ -20,7 +22,7 @@ const Navbar = () => {
             }}>
                 <Link to="/" style={{ display: 'flex', alignItems: 'center' }}>
                     <img
-                        src="/src/assets/vision-logo.png"
+                        src={logo}
                         alt="Vision Metal Aids"
                         style={{ height: '50px', width: 'auto' }}
                     />
