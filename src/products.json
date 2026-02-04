@@ -1,0 +1,1875 @@
+[
+  {
+    "category": "Sleeves",
+    "slug": "sleeves",
+    "description": "High-performance feeding systems for superior casting quality.",
+    "subProducts": [
+      {
+        "id": "exothermic",
+        "title": "Exothermic Sleeves",
+        "detailTitle": "Exothermic Sleeves",
+        "description": "High-performance exothermic sleeves available in Open, Blind, and William's Wedge variants for superior feeding efficiency.",
+        "intro": "Available in both Open and Blind types to suit various casting requirements.",
+        "variants": [
+          {
+            "name": "Open Sleeves",
+            "heading": "METAMINEX INSULATING AND EXOTHERMIC OPEN SLEEVES",
+            "description": "We are producing all sizes of open insulating and exothermic sleeves with high enriched properties for steel castings of all types. We are manufacturing sleeves from dia 25mm to 1100 mm. We do recommend to use our exothermic powder metamixo 200 to get better efficiency specially for bigger sizes. Sleeves are manufactured in various shapes such as cylindrical, oval, rigid boards and flexible boards. We even customize sleeves as per customer requirements.",
+            "images": [
+              "/src/assets/open-sleeves-diagram.png"
+            ],
+            "tableData": {
+              "columns": [
+                "Size",
+                "A",
+                "B",
+                "C",
+                "D",
+                "H"
+              ],
+              "rows": [
+                [
+                  "1x3",
+                  "50",
+                  "25",
+                  "28",
+                  "47",
+                  "75"
+                ],
+                [
+                  "1.5x3",
+                  "65",
+                  "38",
+                  "40",
+                  "62",
+                  "75"
+                ],
+                [
+                  "1.5x4",
+                  "65",
+                  "38",
+                  "40",
+                  "62",
+                  "100"
+                ],
+                [
+                  "1.5x5",
+                  "65",
+                  "38",
+                  "40",
+                  "62",
+                  "125"
+                ],
+                [
+                  "2x3",
+                  "78",
+                  "51",
+                  "53",
+                  "75",
+                  "75"
+                ],
+                [
+                  "2x4",
+                  "78",
+                  "51",
+                  "53",
+                  "75",
+                  "100"
+                ],
+                [
+                  "2x5",
+                  "78",
+                  "51",
+                  "53",
+                  "75",
+                  "125"
+                ],
+                [
+                  "2x6",
+                  "78",
+                  "51",
+                  "53",
+                  "75",
+                  "150"
+                ],
+                [
+                  "2.5x3",
+                  "94",
+                  "65",
+                  "67",
+                  "91",
+                  "75"
+                ],
+                [
+                  "2.5x4",
+                  "94",
+                  "65",
+                  "67",
+                  "91",
+                  "100"
+                ],
+                [
+                  "2.5x5",
+                  "94",
+                  "65",
+                  "67",
+                  "91",
+                  "125"
+                ],
+                [
+                  "3x3",
+                  "108",
+                  "77",
+                  "79",
+                  "105",
+                  "75"
+                ],
+                [
+                  "3x4",
+                  "108",
+                  "77",
+                  "79",
+                  "105",
+                  "100"
+                ],
+                [
+                  "3x5",
+                  "106",
+                  "80",
+                  "76",
+                  "102",
+                  "125"
+                ],
+                [
+                  "3x6",
+                  "106",
+                  "80",
+                  "76",
+                  "102",
+                  "150"
+                ],
+                [
+                  "3x8",
+                  "106",
+                  "80",
+                  "76",
+                  "102",
+                  "200"
+                ],
+                [
+                  "3.5x6",
+                  "120",
+                  "94",
+                  "89",
+                  "115",
+                  "100"
+                ],
+                [
+                  "3.5x8",
+                  "120",
+                  "94",
+                  "89",
+                  "115",
+                  "150"
+                ],
+                [
+                  "4x4",
+                  "134",
+                  "106",
+                  "102",
+                  "130",
+                  "200"
+                ],
+                [
+                  "4x5",
+                  "134",
+                  "106",
+                  "192",
+                  "130",
+                  "100"
+                ],
+                [
+                  "4x8",
+                  "134",
+                  "106",
+                  "102",
+                  "130",
+                  "150"
+                ],
+                [
+                  "4.5x6",
+                  "146",
+                  "118",
+                  "114",
+                  "142",
+                  "200"
+                ],
+                [
+                  "4.5x8",
+                  "146",
+                  "118",
+                  "114",
+                  "142",
+                  "150"
+                ],
+                [
+                  "5x6",
+                  "163",
+                  "131",
+                  "127",
+                  "159",
+                  "200"
+                ],
+                [
+                  "5x8",
+                  "163",
+                  "131",
+                  "127",
+                  "159",
+                  "150"
+                ],
+                [
+                  "6x6",
+                  "190",
+                  "156",
+                  "152",
+                  "186",
+                  "200"
+                ],
+                [
+                  "7x6",
+                  "222",
+                  "182",
+                  "176",
+                  "218",
+                  "150"
+                ],
+                [
+                  "7x8",
+                  "222",
+                  "182",
+                  "178",
+                  "218",
+                  "200"
+                ],
+                [
+                  "8x6",
+                  "247",
+                  "207",
+                  "20",
+                  "243",
+                  "150"
+                ],
+                [
+                  "8x8",
+                  "247",
+                  "207",
+                  "203",
+                  "243",
+                  "200"
+                ],
+                [
+                  "upto 42 inches",
+                  "-",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ]
+              ]
+            }
+          },
+          {
+            "name": "Blind Sleeves",
+            "heading": "METAMINEX INSULATING AND EXOTHERMIC BLIND SLEEVES",
+            "description": "We are producing all sizes of blind insulating and exothermic sleeves with high enriched properties for steel/S.G./Greyiron castings of all types. We are manufacturing sleeves from dia 25mm to 225 mm.",
+            "images": [
+              "/src/assets/blind-sleeves-diagram.png"
+            ],
+            "tableData": {
+              "columns": [
+                "Size",
+                "A",
+                "B",
+                "C",
+                "D",
+                "H1",
+                "H2"
+              ],
+              "rows": [
+                [
+                  "1x3",
+                  "52",
+                  "29",
+                  "32",
+                  "49",
+                  "76",
+                  "84"
+                ],
+                [
+                  "1.5x3",
+                  "65",
+                  "38",
+                  "40",
+                  "62",
+                  "76",
+                  "84"
+                ],
+                [
+                  "2x3",
+                  "78",
+                  "51",
+                  "53",
+                  "75",
+                  "76",
+                  "86"
+                ],
+                [
+                  "2.5x6",
+                  "88",
+                  "64",
+                  "68",
+                  "84",
+                  "150",
+                  "160"
+                ],
+                [
+                  "3x4",
+                  "102",
+                  "76",
+                  "80",
+                  "106",
+                  "100",
+                  "114"
+                ],
+                [
+                  "3x8",
+                  "102",
+                  "76",
+                  "80",
+                  "106",
+                  "200",
+                  "264"
+                ],
+                [
+                  "3.5x6",
+                  "120",
+                  "89",
+                  "94",
+                  "125",
+                  "150",
+                  "164"
+                ],
+                [
+                  "3.5x8",
+                  "120",
+                  "89",
+                  "94",
+                  "125",
+                  "200",
+                  "214"
+                ],
+                [
+                  "4x6",
+                  "130",
+                  "102",
+                  "106",
+                  "134",
+                  "150",
+                  "164"
+                ],
+                [
+                  "4x8",
+                  "130",
+                  "102",
+                  "106",
+                  "134",
+                  "200",
+                  "264"
+                ],
+                [
+                  "4.5x6",
+                  "142",
+                  "114",
+                  "118",
+                  "146",
+                  "150",
+                  "166"
+                ],
+                [
+                  "4.5x8",
+                  "142",
+                  "114",
+                  "118",
+                  "146",
+                  "200",
+                  "216"
+                ],
+                [
+                  "5x6",
+                  "159",
+                  "127",
+                  "131",
+                  "163",
+                  "150",
+                  "166"
+                ],
+                [
+                  "6x6",
+                  "186",
+                  "152",
+                  "156",
+                  "190",
+                  "150",
+                  "168"
+                ],
+                [
+                  "6x8",
+                  "186",
+                  "152",
+                  "156",
+                  "190",
+                  "200",
+                  "218"
+                ]
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": "insulating",
+        "title": "Insulating Sleeves",
+        "detailTitle": "Insulating Sleeves",
+        "description": "Premium insulating sleeves available in Open, Blind, and William's Wedge variants to maintain metal temperature and improve yield.",
+        "intro": "Available in both Open and Blind types to suit various casting requirements.",
+        "variants": [
+          {
+            "name": "Open Sleeves",
+            "heading": "METAMINEX INSULATING AND EXOTHERMIC OPEN SLEEVES",
+            "description": "We are producing all sizes of open insulating and exothermic sleeves with high enriched properties for steel castings of all types. We are manufacturing sleeves from dia 25mm to 1100 mm. We do recommend to use our exothermic powder metamixo 200 to get better efficiency specially for bigger sizes. Sleeves are manufactured in various shapes such as cylindrical, oval, rigid boards and flexible boards. We even customize sleeves as per customer requirements.",
+            "images": [
+              "/src/assets/open-sleeves-diagram.png",
+              "/src/assets/open-sleeves-info.png"
+            ],
+            "tableData": {
+              "columns": [
+                "Size",
+                "A",
+                "B",
+                "C",
+                "D",
+                "H"
+              ],
+              "rows": [
+                [
+                  "1x3",
+                  "50",
+                  "25",
+                  "28",
+                  "47",
+                  "75"
+                ],
+                [
+                  "1.5x3",
+                  "65",
+                  "38",
+                  "40",
+                  "62",
+                  "75"
+                ],
+                [
+                  "1.5x4",
+                  "65",
+                  "38",
+                  "40",
+                  "62",
+                  "100"
+                ],
+                [
+                  "1.5x5",
+                  "65",
+                  "38",
+                  "40",
+                  "62",
+                  "125"
+                ],
+                [
+                  "2x3",
+                  "78",
+                  "51",
+                  "53",
+                  "75",
+                  "75"
+                ],
+                [
+                  "2x4",
+                  "78",
+                  "51",
+                  "53",
+                  "75",
+                  "100"
+                ],
+                [
+                  "2x5",
+                  "78",
+                  "51",
+                  "53",
+                  "75",
+                  "125"
+                ],
+                [
+                  "2x6",
+                  "78",
+                  "51",
+                  "53",
+                  "75",
+                  "150"
+                ],
+                [
+                  "2.5x3",
+                  "94",
+                  "65",
+                  "67",
+                  "91",
+                  "75"
+                ],
+                [
+                  "2.5x4",
+                  "94",
+                  "65",
+                  "67",
+                  "91",
+                  "100"
+                ],
+                [
+                  "2.5x5",
+                  "94",
+                  "65",
+                  "67",
+                  "91",
+                  "125"
+                ],
+                [
+                  "3x3",
+                  "108",
+                  "77",
+                  "79",
+                  "105",
+                  "75"
+                ],
+                [
+                  "3x4",
+                  "108",
+                  "77",
+                  "79",
+                  "105",
+                  "100"
+                ],
+                [
+                  "3x5",
+                  "106",
+                  "80",
+                  "76",
+                  "102",
+                  "125"
+                ],
+                [
+                  "3x6",
+                  "106",
+                  "80",
+                  "76",
+                  "102",
+                  "150"
+                ],
+                [
+                  "3x8",
+                  "106",
+                  "80",
+                  "76",
+                  "102",
+                  "200"
+                ],
+                [
+                  "3.5x6",
+                  "120",
+                  "94",
+                  "89",
+                  "115",
+                  "100"
+                ],
+                [
+                  "3.5x8",
+                  "120",
+                  "94",
+                  "89",
+                  "115",
+                  "150"
+                ],
+                [
+                  "4x4",
+                  "134",
+                  "106",
+                  "102",
+                  "130",
+                  "200"
+                ],
+                [
+                  "4x5",
+                  "134",
+                  "106",
+                  "192",
+                  "130",
+                  "100"
+                ],
+                [
+                  "4x8",
+                  "134",
+                  "106",
+                  "102",
+                  "130",
+                  "150"
+                ],
+                [
+                  "4.5x6",
+                  "146",
+                  "118",
+                  "114",
+                  "142",
+                  "200"
+                ],
+                [
+                  "4.5x8",
+                  "146",
+                  "118",
+                  "114",
+                  "142",
+                  "150"
+                ],
+                [
+                  "5x6",
+                  "163",
+                  "131",
+                  "127",
+                  "159",
+                  "200"
+                ],
+                [
+                  "5x8",
+                  "163",
+                  "131",
+                  "127",
+                  "159",
+                  "150"
+                ],
+                [
+                  "6x6",
+                  "190",
+                  "156",
+                  "152",
+                  "186",
+                  "200"
+                ],
+                [
+                  "7x6",
+                  "222",
+                  "182",
+                  "176",
+                  "218",
+                  "150"
+                ],
+                [
+                  "7x8",
+                  "222",
+                  "182",
+                  "178",
+                  "218",
+                  "200"
+                ],
+                [
+                  "8x6",
+                  "247",
+                  "207",
+                  "20",
+                  "243",
+                  "150"
+                ],
+                [
+                  "8x8",
+                  "247",
+                  "207",
+                  "203",
+                  "243",
+                  "200"
+                ],
+                [
+                  "upto 42 inches",
+                  "-",
+                  "-",
+                  "-",
+                  "-",
+                  "-"
+                ]
+              ]
+            }
+          },
+          {
+            "name": "Blind Sleeves",
+            "heading": "METAMINEX INSULATING AND EXOTHERMIC BLIND SLEEVES",
+            "description": "We are producing all sizes of blind insulating and exothermic sleeves with high enriched properties for steel/S.G./Greyiron castings of all types. We are manufacturing sleeves from dia 25mm to 225 mm.",
+            "images": [
+              "/src/assets/blind-sleeves-diagram.png",
+              "/src/assets/blind-sleeves-info.png"
+            ],
+            "tableData": {
+              "columns": [
+                "Size",
+                "A",
+                "B",
+                "C",
+                "D",
+                "H1",
+                "H2"
+              ],
+              "rows": [
+                [
+                  "1x3",
+                  "52",
+                  "29",
+                  "32",
+                  "49",
+                  "76",
+                  "84"
+                ],
+                [
+                  "1.5x3",
+                  "65",
+                  "38",
+                  "40",
+                  "62",
+                  "76",
+                  "84"
+                ],
+                [
+                  "2x3",
+                  "78",
+                  "51",
+                  "53",
+                  "75",
+                  "76",
+                  "86"
+                ],
+                [
+                  "2.5x6",
+                  "88",
+                  "64",
+                  "68",
+                  "84",
+                  "150",
+                  "160"
+                ],
+                [
+                  "3x4",
+                  "102",
+                  "76",
+                  "80",
+                  "106",
+                  "100",
+                  "114"
+                ],
+                [
+                  "3x8",
+                  "102",
+                  "76",
+                  "80",
+                  "106",
+                  "200",
+                  "264"
+                ],
+                [
+                  "3.5x6",
+                  "120",
+                  "89",
+                  "94",
+                  "125",
+                  "150",
+                  "164"
+                ],
+                [
+                  "3.5x8",
+                  "120",
+                  "89",
+                  "94",
+                  "125",
+                  "200",
+                  "214"
+                ],
+                [
+                  "4x6",
+                  "130",
+                  "102",
+                  "106",
+                  "134",
+                  "150",
+                  "164"
+                ],
+                [
+                  "4x8",
+                  "130",
+                  "102",
+                  "106",
+                  "134",
+                  "200",
+                  "264"
+                ],
+                [
+                  "4.5x6",
+                  "142",
+                  "114",
+                  "118",
+                  "146",
+                  "150",
+                  "166"
+                ],
+                [
+                  "4.5x8",
+                  "142",
+                  "114",
+                  "118",
+                  "146",
+                  "200",
+                  "216"
+                ],
+                [
+                  "5x6",
+                  "159",
+                  "127",
+                  "131",
+                  "163",
+                  "150",
+                  "166"
+                ],
+                [
+                  "6x6",
+                  "186",
+                  "152",
+                  "156",
+                  "190",
+                  "150",
+                  "168"
+                ],
+                [
+                  "6x8",
+                  "186",
+                  "152",
+                  "156",
+                  "190",
+                  "200",
+                  "218"
+                ]
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": "neck-down",
+        "title": "Neck Down Sleeves",
+        "description": "Our METAMINEX neck down round Sleeves are highly exothermic and insulating to use as feeder for all type of castings. We are manufacturing Neck down sleeves from dia 50 to 300 mm. We are manufacturing it in density from 0.6 gm/cc to 0.8gm/cc defending on the specific requirement of our customer.\n\nWe can use it in inserting as well as ram-up application. These kinds of sleeves has advantage to use as low contact area at casting surface. Easy to knock-off.\n\nBenefits:\n• Low contact area\n• Reduce fettling cost\n• Yield improvement due to low volume",
+        "images": [
+          "/src/assets/neck-down-diagram.png"
+        ],
+        "tableData": {
+          "columns": [
+            "Size",
+            "A",
+            "B",
+            "C",
+            "N",
+            "D",
+            "E",
+            "H1",
+            "H2",
+            "H3",
+            "H"
+          ],
+          "rows": [
+            [
+              "2.5X4",
+              "91",
+              "69",
+              "64",
+              "32",
+              "60",
+              "86",
+              "63",
+              "42",
+              "37",
+              "105"
+            ],
+            [
+              "3X4",
+              "108",
+              "80",
+              "75",
+              "38",
+              "72",
+              "105",
+              "63",
+              "42",
+              "37",
+              "105"
+            ],
+            [
+              "3X6",
+              "108",
+              "80",
+              "75",
+              "38",
+              "72",
+              "105",
+              "93",
+              "62",
+              "57",
+              "155"
+            ],
+            [
+              "4X6",
+              "134",
+              "105",
+              "100",
+              "50",
+              "85",
+              "129",
+              "93",
+              "62",
+              "57",
+              "155"
+            ],
+            [
+              "5X5",
+              "160",
+              "130",
+              "125",
+              "63",
+              "99",
+              "155",
+              "78",
+              "52",
+              "47",
+              "130"
+            ],
+            [
+              "5X6",
+              "160",
+              "130",
+              "125",
+              "63",
+              "99",
+              "155",
+              "93",
+              "62",
+              "57",
+              "155"
+            ],
+            [
+              "5X8",
+              "160",
+              "130",
+              "125",
+              "63",
+              "99",
+              "155",
+              "123",
+              "82",
+              "77",
+              "205"
+            ],
+            [
+              "6X6",
+              "188",
+              "155",
+              "150",
+              "75",
+              "114",
+              "183",
+              "93",
+              "62",
+              "57",
+              "155"
+            ],
+            [
+              "6X8",
+              "188",
+              "155",
+              "150",
+              "75",
+              "114",
+              "183",
+              "123",
+              "82",
+              "77",
+              "205"
+            ],
+            [
+              "7X6",
+              "220",
+              "180",
+              "175",
+              "88",
+              "134",
+              "215",
+              "93",
+              "62",
+              "57",
+              "155"
+            ],
+            [
+              "7X8",
+              "220",
+              "180",
+              "175",
+              "88",
+              "134",
+              "215",
+              "123",
+              "82",
+              "77",
+              "205"
+            ],
+            [
+              "8X6",
+              "251",
+              "205",
+              "200",
+              "100",
+              "154",
+              "246",
+              "93",
+              "62",
+              "57",
+              "155"
+            ],
+            [
+              "8X8",
+              "251",
+              "205",
+              "200",
+              "100",
+              "154",
+              "246",
+              "123",
+              "82",
+              "77",
+              "205"
+            ],
+            [
+              "9X6",
+              "281",
+              "230",
+              "225",
+              "113",
+              "172",
+              "276",
+              "93",
+              "62",
+              "57",
+              "155"
+            ],
+            [
+              "9X8",
+              "281",
+              "230",
+              "225",
+              "113",
+              "172",
+              "276",
+              "123",
+              "82",
+              "77",
+              "205"
+            ],
+            [
+              "10X6",
+              "311",
+              "255",
+              "250",
+              "125",
+              "189",
+              "306",
+              "93",
+              "62",
+              "57",
+              "155"
+            ],
+            [
+              "10X8",
+              "311",
+              "255",
+              "250",
+              "125",
+              "189",
+              "306",
+              "123",
+              "82",
+              "77",
+              "205"
+            ],
+            [
+              "12X6",
+              "375",
+              "305",
+              "300",
+              "150",
+              "230",
+              "370",
+              "93",
+              "62",
+              "57",
+              "155"
+            ],
+            [
+              "12X8",
+              "375",
+              "306",
+              "300",
+              "150",
+              "230",
+              "370",
+              "123",
+              "82",
+              "77",
+              "205"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "direct-core",
+        "title": "Direct Core Sleeves",
+        "detailTitle": "METAMINEX DIRECT POURING SYSTEM S.G/ GREY IRON AND NON FERROUS CASTINGS",
+        "description": "We are producing below sizes in direct pour system. These sleeves are used to improve yield of casting. Due to filtration of melt due to filter helps in preventing slag/ inclusion in casting. \n\nMETAMINEX DIRECT POURING SYSTEM S.G/ GREY IRON AND NON FERROUS CASTINGS",
+        "images": [
+          "/src/assets/sleeves-diagram.png"
+        ],
+        "tableData": {
+          "columns": [
+            "Size",
+            "A",
+            "B",
+            "C",
+            "D",
+            "h",
+            "H",
+            "E",
+            "F"
+          ],
+          "rows": [
+            [
+              "40x75",
+              "78",
+              "44",
+              "53",
+              "72",
+              "63",
+              "75",
+              "30",
+              "32"
+            ],
+            [
+              "40x125",
+              "78",
+              "44",
+              "53",
+              "72",
+              "113",
+              "125",
+              "30",
+              "32"
+            ],
+            [
+              "50x150",
+              "88",
+              "54",
+              "61",
+              "82",
+              "139",
+              "150",
+              "38",
+              "40"
+            ],
+            [
+              "60x150",
+              "101",
+              "64",
+              "68",
+              "92",
+              "134",
+              "146",
+              "45",
+              "47"
+            ],
+            [
+              "70x125",
+              "128",
+              "74",
+              "90",
+              "122",
+              "111",
+              "125",
+              "48",
+              "50"
+            ],
+            [
+              "70X175",
+              "114",
+              "74",
+              "84",
+              "107.5",
+              "158",
+              "173",
+              "55",
+              "58"
+            ],
+            [
+              "90X200",
+              "145",
+              "95",
+              "105",
+              "136",
+              "178",
+              "198",
+              "65",
+              "68"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "williams-wedge",
+        "title": "William's Wedge Sleeves",
+        "detailTitle": "METAMINEX INSULATING AND EXOTHERMIC WILLIAMS WEDGE BLIND SLEEVES",
+        "description": "We are producing all sizes given below for this series. Its william wedge increases the feeding efficiency. william wedge helps in yield improvement by increase the effective modulus of sleeve.",
+        "images": [
+          "/src/assets/williams-wedge-diagram.png"
+        ],
+        "tableData": {
+          "columns": [
+            "Size",
+            "A",
+            "B",
+            "C",
+            "D",
+            "G",
+            "E",
+            "F",
+            "h",
+            "H"
+          ],
+          "rows": [
+            [
+              "4X7",
+              "56.6",
+              "35.5",
+              "41.5",
+              "62.5",
+              "14",
+              "5",
+              "7",
+              "62",
+              "71.5"
+            ],
+            [
+              "5X11",
+              "68.5",
+              "47",
+              "52",
+              "73.5",
+              "18",
+              "8",
+              "10",
+              "100",
+              "110"
+            ],
+            [
+              "6X9",
+              "75",
+              "52.5",
+              "57.5",
+              "80",
+              "18",
+              "8",
+              "10",
+              "78.5",
+              "91"
+            ],
+            [
+              "7X10",
+              "89.5",
+              "65",
+              "69.5",
+              "94",
+              "20",
+              "10",
+              "12",
+              "87",
+              "99"
+            ],
+            [
+              "8X11",
+              "96.5",
+              "72",
+              "79",
+              "104",
+              "22",
+              "12",
+              "14",
+              "96.5",
+              "109"
+            ],
+            [
+              "8X17",
+              "96.5",
+              "72",
+              "79",
+              "104",
+              "24",
+              "12",
+              "14",
+              "150",
+              "165"
+            ],
+            [
+              "9X17",
+              "107",
+              "81",
+              "89",
+              "115",
+              "26",
+              "16",
+              "18",
+              "150",
+              "165"
+            ],
+            [
+              "10X17",
+              "121.5",
+              "91",
+              "97",
+              "127.5",
+              "28",
+              "16",
+              "18",
+              "150",
+              "165"
+            ],
+            [
+              "12X17",
+              "142",
+              "110",
+              "116",
+              "148",
+              "28",
+              "16",
+              "18",
+              "150",
+              "165"
+            ],
+            [
+              "15X17",
+              "182",
+              "139",
+              "146",
+              "189",
+              "30",
+              "20",
+              "22",
+              "150",
+              "165"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "low-volume-high-mef",
+        "title": "Low Volume & High MEF Riser Sleeves",
+        "detailTitle": "METAMINEX LOW VOLUME & HIGH MEF RISER SLEEVES (HIGH DENSITY)",
+        "description": "High Density Sleeves greatly improve the gradual process yield on the premise of meeting the requirements of casting feeding. At the same time, because the contact area between the riser sleeve and the casting is reduced, the cleaning cost of the casting is reduced. It has low density, good strength, and toughness and is suitable for various grades of cast iron and steel castings and various molding processes.\n\nHigh Density Sleeves is a high-efficiency exothermic riser sleeve. It is critical for increasing the productivity, quality and profitability of casting.\n\nBenefits:\n• Less contact area makes it suitable for a fixed position for application on casting\n• Less fettling required\n• High exothermicity and insulating property support in producing sound casting",
+        "images": [
+          "/src/assets/low-vol-diagram-1.png",
+          "/src/assets/low-vol-diagram-2.png"
+        ],
+        "tableData": {
+          "columns": [
+            "Size",
+            "A",
+            "B",
+            "C",
+            "N",
+            "H"
+          ],
+          "rows": [
+            [
+              "VM8",
+              "49",
+              "17",
+              "33",
+              "-",
+              "60"
+            ],
+            [
+              "VM16",
+              "53.50",
+              "21.50",
+              "37.50",
+              "-",
+              "65"
+            ],
+            [
+              "VM40",
+              "71",
+              "23",
+              "43",
+              "-",
+              "130"
+            ],
+            [
+              "VM100",
+              "73",
+              "41",
+              "61",
+              "-",
+              "108"
+            ],
+            [
+              "VM140",
+              "89.50",
+              "47",
+              "75",
+              "-",
+              "120"
+            ],
+            [
+              "VM170",
+              "79",
+              "46",
+              "82",
+              "-",
+              "130"
+            ],
+            [
+              "VM300",
+              "110",
+              "66",
+              "100",
+              "-",
+              "136.50"
+            ],
+            [
+              "VM40/15",
+              "55.50",
+              "30",
+              "-",
+              "15",
+              "102.50"
+            ],
+            [
+              "VM120/25",
+              "77",
+              "40",
+              "-",
+              "25",
+              "140"
+            ],
+            [
+              "VM300/25",
+              "110",
+              "45",
+              "-",
+              "25",
+              "186.50"
+            ]
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "category": "Coatings",
+    "slug": "coatings",
+    "subProducts": [
+      {
+        "id": "varitek-series",
+        "title": "Varitek Series",
+        "subCategory": "Varitek",
+        "description": "Varitek water based coatings are available in all kind of refractory minerals like Zircon, Alumina Silicate, Graphite & mixed. It is best coating in their class. Its enhanced refractoriness, short matting time and application properties gives an edge to the coating and which results into a defect free casting. We have developed a series of Varitek coatings depending upon several variables like liquid metal type, casting geometry and type of moulding.",
+        "images": [
+          "/src/assets/coatings-product-ref.png"
+        ],
+        "tableData": {
+          "columns": [
+            "Sr No",
+            "Product Name",
+            "State",
+            "Appearance",
+            "Base Refractory",
+            "Mode of Application",
+            "Benefits & Area of usage"
+          ],
+          "rows": [
+            [
+              "1",
+              "VARITEK AN",
+              "liquid",
+              "Brownish/Red",
+              "Alumina silicate",
+              "Brush, Dipping",
+              "Suitable for cold box process core making . All kind of automobile castings"
+            ],
+            [
+              "2",
+              "VARITEK MRB",
+              "Liquid",
+              "Black",
+              "Zircon/Graphite",
+              "Dipping",
+              "Suitable for cold box process core making . All kind of automobile castings"
+            ],
+            [
+              "3",
+              "VARITEK CB",
+              "liquid",
+              "Brownish/Red",
+              "Aluminasilicate/Mixed Ref",
+              "Brush, Dipping",
+              "Suitable for cold box process core making. All kind of automobile castings specially for Cylinder block Heads and heavey section casting"
+            ],
+            [
+              "4",
+              "VARITEK NF",
+              "liquid",
+              "Red",
+              "Red",
+              "Dipping",
+              "formulated for Green sand moulding system to get best surface finish."
+            ],
+            [
+              "5",
+              "VARITEK 100",
+              "liquid",
+              "Off-white",
+              "Zircon",
+              "Brush",
+              "Suitable for Heavy Steel casting."
+            ],
+            [
+              "6",
+              "VARITEK 1000-T",
+              "liquid",
+              "Black",
+              "Zircon/Graphite",
+              "Brush, Dipping, Spray",
+              "For LFC casting process"
+            ],
+            [
+              "7",
+              "VARITEK GP 100",
+              "Powder",
+              "Black",
+              "Graphite",
+              "Brush",
+              "Specially suitable for ingot mould making. can be sued for all kind of core /moulding"
+            ],
+            [
+              "8",
+              "VARITEK 60",
+              "Powder",
+              "Black",
+              "Graphite",
+              "Brush",
+              "Suitable for making CI moulds"
+            ],
+            [
+              "9",
+              "VARITEK GPW",
+              "Paste",
+              "Black",
+              "Graphite",
+              "Brush",
+              "Suitable for making CI moulds"
+            ],
+            [
+              "10",
+              "VARITEK LFC",
+              "Liquid",
+              "Black to Grey",
+              "Mixed Refractory",
+              "Brush, Dipping, Flow coat",
+              "Suitable for LFC process of casting making"
+            ],
+            [
+              "11",
+              "VARITEK 108",
+              "Liquid",
+              "Off White",
+              "Zircon",
+              "Brush",
+              "High Zircon"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "alcotek-series",
+        "title": "Alcotek Series",
+        "subCategory": "Alcotek (Solvent Based)",
+        "description": "In this series we produce all thinner base coatings. We have coatings for heavy steel castings to grey iron casting. We are supplying to all type of casting manufacturer. We also designed tailor made coating depending upon the specific requirement of our customers with help of our technical experts & wide R&D facilities.",
+        "images": [
+          "/src/assets/alcotek-jars.png"
+        ],
+        "tableData": {
+          "columns": [
+            "Sr No",
+            "Product Name",
+            "State",
+            "Appearance",
+            "Base Refractory",
+            "Mode of Application",
+            "Benefits & Area of usage"
+          ],
+          "rows": [
+            [
+              "1",
+              "ALCOTEK G 45",
+              "liquid",
+              "Black to Grey",
+              "Graphite",
+              "Brush, Dipping",
+              "Suitable to use in all knid of core and mould making. S.G. and Grey Iron castings"
+            ],
+            [
+              "2",
+              "ALCOTEK MS 90",
+              "liquid",
+              "Yellowish",
+              "Magnesite",
+              "Brush, Dipping, Flow coat",
+              "Magnese steel castings production. Suitable for NO bake and Sodium silicate system"
+            ],
+            [
+              "3",
+              "ALCOTEK ZP100",
+              "Powder",
+              "Off-white",
+              "Zircon",
+              "Brush, Dipping, Spray",
+              "Heavy section castings of all kind of steel and Iron casting production of all kind of moulding system"
+            ],
+            [
+              "4",
+              "ALCOTEK MCP",
+              "liquid",
+              "Off-white",
+              "Zircon mixed",
+              "Spray",
+              "formulated for Green sand moulding system to get best surface finish."
+            ],
+            [
+              "5",
+              "ALCOTEK MP 81",
+              "Powder",
+              "Yellowish",
+              "Magnesite",
+              "Brush, Dipping, Spray",
+              "Magnese steel castings production. Suitable for NO bake and Sodium silicate system"
+            ],
+            [
+              "6",
+              "ALCOTEK GP72",
+              "Powder",
+              "Black",
+              "Graphite",
+              "Brush, Dipping, Spray",
+              "Powder form Graphite coating for SG/Grey iron castings. Esay to add solvent as per requirement of customer"
+            ],
+            [
+              "7",
+              "ALCOTEK 200",
+              "liquid",
+              "Green",
+              "Zirocn",
+              "Brush, Dipping",
+              "High refractory Zirocn coating for Steel Casting."
+            ],
+            [
+              "8",
+              "ALCOTEK 207",
+              "liquid",
+              "Green",
+              "Zircon",
+              "Brush, Dipping",
+              "High refractory Zirocn coating for Steel Casting."
+            ],
+            [
+              "9",
+              "ALCOTEK 108",
+              "liquid",
+              "Off-white",
+              "Zircon",
+              "Brush",
+              "High refractory Zirocn coating for Steel Casting."
+            ],
+            [
+              "10",
+              "ALCOTEK 100",
+              "liquid",
+              "Off-white",
+              "Zircon",
+              "Brush",
+              "High refractory Zirocn coating for Steel Casting."
+            ],
+            [
+              "11",
+              "ALCOTEK ZPS",
+              "Paste",
+              "Off-white",
+              "Zircon",
+              "Brush, Dipping, Spray",
+              "Available in paste form for steel castings and heavy section S G iron casting"
+            ],
+            [
+              "12",
+              "ALCOTEK 306",
+              "liquid",
+              "Green",
+              "Zircon",
+              "Brush",
+              "High refractory Zirocn coating for Steel Casting."
+            ],
+            [
+              "13",
+              "ALCOTEK GZ45",
+              "liquid",
+              "Black to Grey",
+              "Mixed",
+              "Brush, Dipping, Spray",
+              "mixed refractory coating for Moulding / core making of all kind of sand bonded system."
+            ],
+            [
+              "14",
+              "ALCOTEK-GPS",
+              "Paste",
+              "Black",
+              "Graphite",
+              "Brush, Dipping, Spray",
+              "mixed refractory coating for Moulding / core making of all kind of sand bonded system."
+            ]
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "category": "Resin Coated Sand",
+    "slug": "resin-coated-sand",
+    "description": "High-quality resin coated sand for precision cores and moulds.",
+    "subProducts": [
+      {
+        "id": "resin-coated-sand",
+        "title": "Resin Coated Sand",
+        "subCategory": "Resin Coated Sand",
+        "description": "We Vision Meal Aids produce resin coated in our Dausa Jaipur plant. We manufacture Resign Coated Sand of many grades depending on the castings specification for the preparation of cores and moulds. Our resin coated sands are specially formulated to achieve low gas content at a specific hot tensile strength and odor during production of cores and moulds in ferrous and non-ferrous metal casting. We are using high grade silica sand to produce the Resin coated sand. Our Resin Coated Sand is free flowing, smooth and moisture free. We have ultra-modern coating plant and good laboratory to achieve good quality.",
+        "images": [
+          "/src/assets/rcs-pile.png",
+          "/src/assets/rcs-castings.png"
+        ],
+        "characteristics": [
+          "Low peel back",
+          "It develops uniform build-up with faster rate of cure",
+          "Low gas content grades",
+          "It is very dry, smooth, and free flowing with good resistance to moisture",
+          "We are producing R.C.S. from 40 AFS to 80 AFS"
+        ],
+        "advantages": [
+          "Castings can be produced with very minimum machining allowances, close tolerance and along with excellent surface finish.",
+          "Reduced mould/core dilation.",
+          "Shell cores can be made hollow resulting in significantly lighter weight and lower cost cores.",
+          "Immediate use of cores in foundry",
+          "Fast production rate",
+          "Packing :- We are supplying product in LDPE bags in 50 kg standard packing"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Anti-Piping & Exothermic Compounds",
+    "slug": "anti-piping-and-exothermic-compounds",
+    "description": "High exothermic and insulating powders for feeder head efficiency.",
+    "subProducts": [
+      {
+        "id": "anti-piping-compound",
+        "title": "Anti-Piping Compound and Exothermic Powder",
+        "subCategory": "Anti-Piping Compound & Exothermic Powder",
+        "description": "Anti-Piping Compound and Exothermic Powder (METALUX and METAMEXO) is specially developed with high exothermic and insulating properties to increase feeder head efficiency by reducing heat Losses due to convection and radiation.\n\nOn coming in contact with molten metal in the feeder head, an exothermic reaction takes place and sufficient amount of heat is generated. This heat, off sets the chilling of molten metaldue to heat Loss. The burnt residue swells and provides a strong insulation to prevent the radiation Losses. This process inhibits the formation of solid skin and also allows atmospheric pressure to initiate gravitational feeding of metal.",
+        "images": [
+          "/src/assets/apc-products.png",
+          "/src/assets/apc-board.png"
+        ],
+        "helpingMaterials": {
+          "title": "Foundry Helping Raw Materials",
+          "description": "We are also producing foundry helping material for Grey, S.G. iron industries, steel foundry /melting industries.",
+          "list": [
+            "Core fixing adhesive ( MetaFix)",
+            "Core Sealing adhesive (MetaSeal Paste)",
+            "Silica Laddle boards for Laddle lining",
+            "Metachill - coating for instant chilling in casting. It is used at mould or core surface to get fast cooling at particular location",
+            "Mexil 60 - It is a collapsible agent used to get better decoring in CO2 mould and core making. It is available in both liquid and powder form.",
+            "Metasil 123 - Inorganic binder for cores.",
+            "Metastrip - To ease stripping of patterns.",
+            "Slag 30 - Used to minimize heat loss and reduce slag inclusion defects."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "category": "Carbon Additives",
+    "slug": "carbon-additives",
+    "description": "Lustrous carbon additives for sand systems.",
+    "products": [
+      {
+        "name": "Metakol",
+        "specs": {
+          "Volatile Matter": "Various grades available",
+          "Ash": "Low"
+        }
+      }
+    ]
+  },
+  {
+    "category": "Steel Melting Products",
+    "slug": "steel-melting-products",
+    "description": "High-quality Hot Tops and Tundish Boards for steel melting applications.",
+    "subProducts": [
+      {
+        "id": "hot-tops",
+        "title": "Hot Tops",
+        "subCategory": "Hot Tops",
+        "description": "Hot Tops of various sizes and shapes are manufactured as per requirement for small, medium and Large Ingots. Shapes such as Square, Round, Super imposed, Semi inserted, Fully-inserted.\nSize range 2.5\" up to 52\"",
+        "images": [
+          "/src/assets/sm-hottops.png"
+        ]
+      },
+      {
+        "id": "tundish-boards",
+        "title": "Tundish Boards",
+        "subCategory": "Tundish Boards",
+        "description": "Tundish boards in various sizes and quality are manufactured for single or multiple strand system for Continues casting machines.\n\nType of boards\n1. Silica base\n2. Magnesite base\n3. Duplexform\n4. Super silica\n\n*Size range: as per drawing of tundish",
+        "images": [
+          "/src/assets/sm-tundish-1.png",
+          "/src/assets/sm-tundish-2.png"
+        ]
+      }
+    ]
+  }
+]
