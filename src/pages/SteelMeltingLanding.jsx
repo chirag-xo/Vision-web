@@ -19,7 +19,7 @@ const SteelMeltingLanding = () => {
                     <span style={{ fontWeight: '600' }}>Steel Melting Products</span>
                 </div>
 
-                <div className="glass-card" style={{ padding: '3rem' }}>
+                <div className="glass-card" style={{ padding: '1rem' }}>
                     <h1 style={{ marginBottom: '1rem', color: 'var(--color-primary)' }}>{category?.category || 'Steel Melting Products'}</h1>
                     <p style={{ color: '#64748b', marginBottom: '3rem', maxWidth: '800px' }}>{category?.description}</p>
 
