@@ -18,8 +18,12 @@ const Navbar = () => {
                 justifyContent: 'space-between',
                 alignItems: 'center'
             }}>
-                <Link to="/" style={{ fontSize: '1.5rem', fontWeight: 'bold' }}>
-                    VISION METAL AIDS
+                <Link to="/" style={{ display: 'flex', alignItems: 'center' }}>
+                    <img
+                        src="/src/assets/vision-logo.png"
+                        alt="Vision Metal Aids"
+                        style={{ height: '50px', width: 'auto' }}
+                    />
                 </Link>
 
                 <div className="desktop-menu" style={{ display: 'flex', gap: '2rem' }}>

@@ -14,7 +14,7 @@ const Home = () => {
                 textAlign: 'center'
             }}>
                 <div className="container">
-                    <h1 style={{ fontSize: '3.5rem', marginBottom: '1rem' }}>Advanced Foundry Solutions</h1>
+                    <h1 style={{ fontSize: '3.5rem', marginBottom: '1rem', color: 'white', textTransform: 'uppercase', letterSpacing: '2px' }}>VISION TO SERVE CASTERS</h1>
                     <p style={{ fontSize: '1.25rem', maxWidth: '600px', margin: '0 auto 2rem' }}>
                         Premier manufacturer of Exothermic Sleeves, Coatings, and Metallurgical Products.
                         ISO 9001:2008 Certified.

@@ -11,7 +11,11 @@ const Footer = () => {
             <div className="container">
                 <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))', gap: '2rem' }}>
                     <div>
-                        <h3>Vision Metal Aids</h3>
+                        <img
+                            src="/src/assets/vision-logo.png"
+                            alt="Vision Metal Aids"
+                            style={{ height: '60px', width: 'auto', marginBottom: '1rem', background: 'white', padding: '5px', borderRadius: '4px' }}
+                        />
                         <p>Quality Foundry Consumables since 2008.</p>
                     </div>
                     <div>
