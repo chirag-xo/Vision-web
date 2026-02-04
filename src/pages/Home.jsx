@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import productsData from '../products.json';
 
 const Home = () => {
@@ -19,7 +20,7 @@ const Home = () => {
                         Premier manufacturer of Exothermic Sleeves, Coatings, and Metallurgical Products.
                         ISO 9001:2008 Certified.
                     </p>
-                    <button className="btn btn-primary">Explore Products</button>
+                    <Link to="/products" className="btn btn-primary" style={{ textDecoration: 'none', display: 'inline-block' }}>Explore Products</Link>
                 </div>
             </section>
 
@@ -32,7 +33,9 @@ const Home = () => {
                             <div key={index} className="glass-card">
                                 <h3>{cat.category}</h3>
                                 <p style={{ margin: '1rem 0' }}>{cat.description}</p>
-                                <span style={{ color: 'var(--color-accent)', fontWeight: '600' }}>Learn More &rarr;</span>
+                                <Link to={`/products/${cat.slug}`} style={{ color: 'var(--color-accent)', fontWeight: '600', textDecoration: 'none', display: 'inline-flex', alignItems: 'center' }}>
+                                    Learn More &rarr;
+                                </Link>
                             </div>
                         ))}
                     </div>
