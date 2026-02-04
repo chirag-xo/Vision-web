@@ -54,9 +54,9 @@ const ResinSandDetail = () => {
                             {product.characteristics && (
                                 <div style={{ marginBottom: '2rem' }}>
                                     <h3 style={{ fontSize: '1.25rem', marginBottom: '1rem', color: 'var(--color-primary)' }}>Characteristics</h3>
-                                    <ul style={{ paddingLeft: '1.2rem', color: '#475569', lineHeight: '1.6' }}>
+                                    <ul style={{ paddingLeft: '1.5rem', color: '#475569', lineHeight: '1.6', listStyleType: 'disc' }}>
                                         {product.characteristics.map((char, index) => (
-                                            <li key={index} style={{ marginBottom: '0.5rem' }}>{char}</li>
+                                            <li key={index} style={{ marginBottom: '0.5rem', paddingLeft: '0.5rem' }}>{char}</li>
                                         ))}
                                     </ul>
                                 </div>
@@ -65,9 +65,9 @@ const ResinSandDetail = () => {
                             {product.advantages && (
                                 <div>
                                     <h3 style={{ fontSize: '1.25rem', marginBottom: '1rem', color: 'var(--color-primary)' }}>Advantages</h3>
-                                    <ul style={{ paddingLeft: '1.2rem', color: '#475569', lineHeight: '1.6' }}>
+                                    <ul style={{ paddingLeft: '1.5rem', color: '#475569', lineHeight: '1.6', listStyleType: 'disc' }}>
                                         {product.advantages.map((adv, index) => (
-                                            <li key={index} style={{ marginBottom: '0.5rem' }}>{adv}</li>
+                                            <li key={index} style={{ marginBottom: '0.5rem', paddingLeft: '0.5rem' }}>{adv}</li>
                                         ))}
                                     </ul>
                                 </div>

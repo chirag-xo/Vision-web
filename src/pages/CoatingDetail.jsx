@@ -60,10 +60,10 @@ const CoatingDetail = () => {
                                 border: '1px solid rgba(0,0,0,0.05)'
                             }}>
                                 <h4 style={{ marginBottom: '0.5rem', color: 'var(--color-primary)' }}>Key Features</h4>
-                                <ul style={{ paddingLeft: '1.2rem', color: '#475569' }}>
-                                    <li>High quality surface finish</li>
-                                    <li>Consistent performance</li>
-                                    <li>Optimized for {product.subCategory.includes('Water') ? 'Water Based' : 'Solvent Based'} application</li>
+                                <ul style={{ paddingLeft: '1.5rem', color: '#475569', listStyleType: 'disc' }}>
+                                    <li style={{ marginBottom: '0.5rem', paddingLeft: '0.5rem' }}>High quality surface finish</li>
+                                    <li style={{ marginBottom: '0.5rem', paddingLeft: '0.5rem' }}>Consistent performance</li>
+                                    <li style={{ marginBottom: '0.5rem', paddingLeft: '0.5rem' }}>Optimized for {product.subCategory.includes('Water') ? 'Water Based' : 'Solvent Based'} application</li>
                                 </ul>
                             </div>
                         </div>

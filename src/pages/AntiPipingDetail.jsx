@@ -55,9 +55,9 @@ const AntiPipingDetail = () => {
                                     <h3 style={{ fontSize: '1.25rem', marginBottom: '1rem', color: 'var(--color-primary)' }}>{product.helpingMaterials.title}</h3>
                                     <p style={{ color: '#64748b', marginBottom: '1rem' }}>{product.helpingMaterials.description}</p>
                                     <h4 style={{ fontSize: '1rem', fontWeight: '600', marginBottom: '0.5rem', color: '#334155' }}>List of products is as under:</h4>
-                                    <ul style={{ paddingLeft: '1.2rem', color: '#475569', lineHeight: '1.6' }}>
+                                    <ul style={{ paddingLeft: '1.5rem', color: '#475569', lineHeight: '1.6', listStyleType: 'disc' }}>
                                         {product.helpingMaterials.list.map((item, index) => (
-                                            <li key={index} style={{ marginBottom: '0.5rem' }}>{item}</li>
+                                            <li key={index} style={{ marginBottom: '0.5rem', paddingLeft: '0.5rem' }}>{item}</li>
                                         ))}
                                     </ul>
                                 </div>
