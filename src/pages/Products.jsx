@@ -22,6 +22,7 @@ const Products = () => {
             <ProductCard
               key={index}
               title={cat.category}
+              subheading={cat.subheading}
               description={cat.description}
               link={getLink(cat)}
             />
