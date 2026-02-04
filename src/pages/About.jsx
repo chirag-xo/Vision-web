@@ -28,7 +28,7 @@ const About = () => {
 
                 <h2 style={{ marginBottom: '2rem', fontSize: '2.5rem' }}>Our <span style={{ color: 'var(--color-accent)' }}>Infrastructure</span></h2>
                 <div className="glass-card">
-                    <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))', gap: '2rem', alignItems: 'center' }}>
+                    <div className="about-infra-grid">
                         <div>
                             <p style={{ fontSize: '1.1rem', marginBottom: '1.5rem' }}>
                                 With the assistance of our well-furnished infrastructure unit, we have been able to deliver premium quality products to our precious clients.
@@ -43,6 +43,20 @@ const About = () => {
                         </div>
                     </div>
                 </div>
+
+                <style>{`
+                    .about-infra-grid {
+                        display: grid;
+                        grid-template-columns: 1fr;
+                        gap: 2rem;
+                        align-items: center;
+                    }
+                    @media(min-width: 768px) {
+                        .about-infra-grid {
+                            grid-template-columns: 1fr 1fr;
+                        }
+                    }
+                `}</style>
             </div>
         </div>
     );

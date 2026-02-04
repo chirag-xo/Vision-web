@@ -44,7 +44,7 @@ const CoatingDetail = () => {
                         {product.subCategory}
                     </div>
 
-                    <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '4rem', alignItems: 'start', marginBottom: '4rem' }}>
+                    <div className="product-detail-grid">
                         <div>
                             <h3 style={{ fontSize: '1.25rem', marginBottom: '1rem' }}>Description</h3>
                             <p style={{ color: '#475569', lineHeight: '1.7', marginBottom: '2rem' }}>
@@ -96,11 +96,38 @@ const CoatingDetail = () => {
                         </div>
                     </div>
 
+                    <style>{`
+                        .product-detail-grid {
+                            display: grid;
+                            gap: 4rem;
+                            grid-template-columns: minmax(0, 1fr);
+                            align-items: start;
+                            margin-bottom: 4rem;
+                            width: 100%;
+                        }
+                        
+                        @media (min-width: 768px) {
+                            .product-detail-grid {
+                                grid-template-columns: 1fr 1fr;
+                            }
+                        }
+                    `}</style>
+
                     {/* Technical Specifications Table */}
                     {product.tableData && (
                         <div style={{ marginTop: '3rem' }}>
-                            <h3 style={{ fontSize: '1.5rem', marginBottom: '1rem', color: 'var(--color-primary)' }}>Technical Specifications</h3>
+                            <h3 className="responsive-heading" style={{ marginBottom: '1rem', color: 'var(--color-primary)' }}>Technical Specifications</h3>
                             <ProductTable columns={product.tableData.columns} rows={product.tableData.rows} />
+                            <style>{`
+                                .responsive-heading {
+                                    font-size: 1.25rem;
+                                }
+                                @media (min-width: 768px) {
+                                    .responsive-heading {
+                                        font-size: 1.5rem;
+                                    }
+                                }
+                            `}</style>
                         </div>
                     )}
                 </div>

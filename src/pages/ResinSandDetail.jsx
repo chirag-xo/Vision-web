@@ -44,7 +44,7 @@ const ResinSandDetail = () => {
                         {product.subCategory}
                     </div>
 
-                    <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '4rem', alignItems: 'start' }}>
+                    <div className="product-detail-grid">
                         <div>
                             <h3 style={{ fontSize: '1.25rem', marginBottom: '1rem' }}>Description</h3>
                             <p style={{ color: '#475569', lineHeight: '1.7', marginBottom: '2rem', whiteSpace: 'pre-line' }}>
@@ -91,6 +91,22 @@ const ResinSandDetail = () => {
                             </div>
                         </div>
                     </div>
+
+                    <style>{`
+                        .product-detail-grid {
+                            display: grid;
+                            grid-template-columns: minmax(0, 1fr);
+                            gap: 4rem;
+                            align-items: start;
+                            width: 100%;
+                        }
+                        
+                        @media (min-width: 768px) {
+                            .product-detail-grid {
+                                grid-template-columns: 1fr 1fr;
+                            }
+                        }
+                    `}</style>
                 </div>
             </div>
         </div>

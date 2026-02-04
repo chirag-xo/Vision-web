@@ -37,7 +37,7 @@ const SleeveDetail = () => {
                         {product.variants.map((variant, index) => (
                             <div key={index} id={variant.name.toLowerCase().replace(/ /g, '-')}>
                                 <h2 style={{ marginBottom: '2rem', fontSize: '2rem', borderBottom: '1px solid #e2e8f0', paddingBottom: '0.5rem' }}>{variant.heading}</h2>
-                                <div style={{ display: 'grid', gridTemplateColumns: 'minmax(0, 1fr) minmax(300px, 400px)', gap: '4rem', alignItems: 'start' }}>
+                                <div className="sleeve-detail-grid">
                                     {/* Left Content */}
                                     <div>
                                         <div style={{ whiteSpace: 'pre-line', fontSize: '1.1rem', color: '#334155', lineHeight: '1.8', marginBottom: '3rem' }}>
@@ -63,7 +63,7 @@ const SleeveDetail = () => {
                         ))}
                     </div>
                 ) : (
-                    <div style={{ display: 'grid', gridTemplateColumns: 'minmax(0, 1fr) minmax(300px, 400px)', gap: '4rem', alignItems: 'start' }}>
+                    <div className="sleeve-detail-grid">
                         {/* Left Content */}
                         <div>
                             <div style={{ whiteSpace: 'pre-line', fontSize: '1.1rem', color: '#334155', lineHeight: '1.8', marginBottom: '3rem' }}>
@@ -98,6 +98,22 @@ const SleeveDetail = () => {
                         </div>
                     </div>
                 )}
+
+                <style>{`
+                    .sleeve-detail-grid {
+                        display: grid;
+                        grid-template-columns: minmax(0, 1fr);
+                        gap: 4rem;
+                        align-items: start;
+                        width: 100%;
+                    }
+                    
+                    @media (min-width: 1024px) {
+                        .sleeve-detail-grid {
+                            grid-template-columns: minmax(0, 1fr) minmax(300px, 400px);
+                        }
+                    }
+                `}</style>
             </div>
         </div>
     );

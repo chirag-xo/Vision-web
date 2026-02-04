@@ -39,7 +39,7 @@ const CategoryPage = () => {
                                 {/* Product Table or List */}
                                 {sub.products && sub.products.length > 0 ? (
                                     <div style={{ overflowX: 'auto' }}>
-                                        <table style={{ width: '100%', borderCollapse: 'collapse', marginTop: '1rem' }}>
+                                        <table style={{ width: '100%', borderCollapse: 'collapse', marginTop: '1rem', minWidth: '600px' }}>
                                             <thead>
                                                 <tr style={{ background: 'rgba(0,0,0,0.05)' }}>
                                                     <th style={{ padding: '1rem', textAlign: 'left' }}>Product Name</th>
@@ -53,7 +53,7 @@ const CategoryPage = () => {
                                                         <td style={{ padding: '1rem' }}>
                                                             {prod.tableData ? (
                                                                 <div style={{ overflowX: 'auto', marginTop: '1rem' }}>
-                                                                    <table style={{ width: '100%', borderCollapse: 'collapse', fontSize: '0.9rem' }}>
+                                                                    <table style={{ width: '100%', borderCollapse: 'collapse', fontSize: '0.9rem', minWidth: '100%' }}>
                                                                         <thead>
                                                                             <tr style={{ background: '#f1f5f9' }}>
                                                                                 {prod.tableData.columns.map((col, cIdx) => (
@@ -84,7 +84,7 @@ const CategoryPage = () => {
                                                             {category.category.includes('Sleeves') && prod.tableData && (
                                                                 <div style={{ marginTop: '2rem', textAlign: 'center' }}>
                                                                     <h4 style={{ marginBottom: '1rem', color: '#64748b' }}>Technical Diagram</h4>
-                                                                    <img src="/src/assets/sleeves-diagram.png" alt="Sleeve Diagram" style={{ maxWidth: '100%', borderRadius: '8px', border: '1px solid #e2e8f0' }} />
+                                                                    <img src="/assets/sleeves-diagram.png" alt="Sleeve Diagram" style={{ maxWidth: '100%', borderRadius: '8px', border: '1px solid #e2e8f0' }} />
                                                                 </div>
                                                             )}
                                                         </td>

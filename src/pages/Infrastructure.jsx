@@ -32,7 +32,7 @@ const Infrastructure = () => {
                 <div style={{ marginBottom: '4rem' }}>
                     <div className="glass-card" style={{ padding: '2rem', display: 'flex', justifyContent: 'center', background: 'white' }}>
                         <img
-                            src="/src/assets/infra-map.png"
+                            src="/assets/infra-map.png"
                             alt="Vision Metal Aids Pan India Presence"
                             style={{ maxWidth: '100%', height: 'auto', maxHeight: '600px' }}
                         />
@@ -40,7 +40,7 @@ const Infrastructure = () => {
                 </div>
 
                 <h2 style={{ marginBottom: '2rem', textAlign: 'center' }}>Manufacturing Units & Warehouses</h2>
-                <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))', gap: '2rem' }}>
+                <div className="infra-grid">
                     {units.map((unit, index) => (
                         <div key={index} className="glass-card" style={{ padding: '2rem' }}>
                             <h3 style={{ fontSize: '1.25rem', marginBottom: '1rem', color: 'var(--color-primary)' }}>{unit.title}</h3>
@@ -48,6 +48,19 @@ const Infrastructure = () => {
                         </div>
                     ))}
                 </div>
+
+                <style>{`
+                    .infra-grid {
+                        display: grid;
+                        grid-template-columns: 1fr;
+                        gap: 2rem;
+                    }
+                    @media (min-width: 640px) {
+                        .infra-grid {
+                            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+                        }
+                    }
+                `}</style>
             </div>
         </div>
     );

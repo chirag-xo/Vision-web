@@ -27,7 +27,7 @@ const SteelMeltingLanding = () => {
                         {products.map((product) => (
                             <div key={product.id} className="glass-card" style={{ padding: '2rem', backgroundColor: 'rgba(255, 255, 255, 0.5)' }}>
                                 <h2 style={{ fontSize: '1.75rem', marginBottom: '1.5rem', color: 'var(--color-primary)' }}>{product.title}</h2>
-                                <div style={{ display: 'flex', flexDirection: 'row', gap: '3rem', alignItems: 'start', flexWrap: 'wrap' }}>
+                                <div className="product-card-body">
 
                                     {/* Text Section (Left) */}
                                     <div style={{ flex: '1 1 300px' }}>
@@ -56,6 +56,22 @@ const SteelMeltingLanding = () => {
                             </div>
                         ))}
                     </div>
+
+                    <style>{`
+                        .product-card-body {
+                            display: flex;
+                            flex-direction: column;
+                            gap: 2rem;
+                        }
+                        
+                        @media (min-width: 768px) {
+                            .product-card-body {
+                                flex-direction: row;
+                                gap: 3rem;
+                                align-items: start;
+                            }
+                        }
+                    `}</style>
                 </div>
             </div>
         </div>
