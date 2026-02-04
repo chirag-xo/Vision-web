@@ -29,7 +29,7 @@ const AntiPipingDetail = () => {
                     <span style={{ fontWeight: '600' }}>{product.title}</span>
                 </div>
 
-                <div className="glass-card" style={{ padding: '3rem' }}>
+                <div className="glass-card" style={{ padding: '1rem' }}>
                     <h1 style={{ marginBottom: '1rem', color: 'var(--color-primary)' }}>{product.title}</h1>
                     <div style={{
                         display: 'inline-block',
