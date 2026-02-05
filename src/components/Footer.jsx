@@ -19,7 +19,7 @@ const Footer = () => {
                             alt="Vision Metal Aids"
                             style={{ height: '60px', width: 'auto', marginBottom: '1rem', background: 'white', padding: '5px', borderRadius: '4px', display: 'inline-block' }}
                         />
-                        <p>Quality Foundry Consumables since 2008.</p>
+                        <p>Quality Foundry Consumables since 1993.</p>
                     </div>
                     <div className="footer-col">
                         <h4>Quick Links</h4>

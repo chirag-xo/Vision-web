@@ -6,7 +6,7 @@ const ProductCard = ({ title, subheading, description, link }) => {
         <div className="glass-card" style={{ display: 'flex', flexDirection: 'column', height: '100%' }}>
             <h3 style={{ fontSize: '1.5rem', marginBottom: '0.5rem' }}>{title}</h3>
             {subheading && (
-                <p style={{ fontSize: '0.875rem', color: '#94a3b8', marginBottom: '1rem', fontStyle: 'italic' }}>
+                <p style={{ fontSize: '0.875rem', color: '#64748b', marginBottom: '1rem' }}>
                     {subheading}
                 </p>
             )}
