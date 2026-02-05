@@ -1,6 +1,30 @@
 import React from 'react';
 
 const Contact = () => {
+    const [result, setResult] = React.useState("");
+
+    const onSubmit = async (event) => {
+        event.preventDefault();
+        setResult("Sending....");
+        const formData = new FormData(event.target);
+
+        formData.append("access_key", "YOUR_ACCESS_KEY_HERE");
+
+        const response = await fetch("https://api.web3forms.com/submit", {
+            method: "POST",
+            body: formData
+        });
+
+        const data = await response.json();
+
+        if (data.success) {
+            setResult("Form Submitted Successfully");
+            event.target.reset();
+        } else {
+            console.log("Error", data);
+            setResult(data.message);
+        }
+    };
 
     return (
         <div className="section">
@@ -39,12 +63,17 @@ const Contact = () => {
                 {/* Contact Form - Order 2 on Mobile */}
                 <div className="glass-card contact-form">
                     <h3 style={{ marginBottom: '1.5rem' }}>Send a Message</h3>
-                    <form style={{ display: 'flex', flexDirection: 'column', gap: '1rem' }}>
-                        <input type="text" placeholder="Your Name" style={{ padding: '0.75rem', borderRadius: '4px', border: '1px solid #cbd5e1' }} />
-                        <input type="email" placeholder="Your Email" style={{ padding: '0.75rem', borderRadius: '4px', border: '1px solid #cbd5e1' }} />
-                        <textarea rows="4" placeholder="Message" style={{ padding: '0.75rem', borderRadius: '4px', border: '1px solid #cbd5e1' }}></textarea>
+                    <form onSubmit={onSubmit} style={{ display: 'flex', flexDirection: 'column', gap: '1rem' }}>
+                        {/* Web3Forms Access Key - You must replace this with your own key from https://web3forms.com/ */}
+                        <input type="hidden" name="access_key" value="YOUR_ACCESS_KEY_HERE" />
+
+                        <input type="text" name="name" required placeholder="Your Name" style={{ padding: '0.75rem', borderRadius: '4px', border: '1px solid #cbd5e1' }} />
+                        <input type="email" name="email" required placeholder="Your Email" style={{ padding: '0.75rem', borderRadius: '4px', border: '1px solid #cbd5e1' }} />
+                        <textarea name="message" required rows="4" placeholder="Message" style={{ padding: '0.75rem', borderRadius: '4px', border: '1px solid #cbd5e1' }}></textarea>
+
                         <button type="submit" className="btn btn-primary">Send Message</button>
                     </form>
+                    {result && <p style={{ marginTop: '1rem', color: result.includes('Success') ? 'green' : 'red' }}>{result}</p>}
                 </div>
             </div>
 
