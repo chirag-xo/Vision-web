@@ -15,10 +15,13 @@ const Home = () => {
                 textAlign: 'center'
             }}>
                 <div className="container">
-                    <h1 style={{ fontSize: '3.5rem', marginBottom: '1rem', color: 'white', textTransform: 'uppercase', letterSpacing: '2px' }}>VISION TO SERVE CASTERS</h1>
+                    <h1 style={{ marginBottom: '1rem', color: 'white', textTransform: 'uppercase', lineHeight: '1.1' }}>
+                        <span style={{ display: 'block', fontSize: '6rem', fontWeight: '900', letterSpacing: '6px', textShadow: '2px 2px 4px rgba(0,0,0,0.5)' }}>VISION</span>
+                        <span style={{ display: 'block', fontSize: '2.5rem', fontWeight: '400', letterSpacing: '4px', marginTop: '0.5rem' }}>TO SERVE CASTERS</span>
+                    </h1>
                     <p style={{ fontSize: '1.25rem', maxWidth: '600px', margin: '0 auto 2rem' }}>
                         Premier manufacturer of Exothermic Sleeves, Coatings, and Metallurgical Products.
-                        ISO 9001:2008 Certified.
+                        ISO 9001:2015 Certified.
                     </p>
                     <Link to="/products" className="btn btn-primary" style={{ textDecoration: 'none', display: 'inline-block' }}>Explore Products</Link>
                 </div>
@@ -43,7 +46,9 @@ const Home = () => {
             </section>
 
             <style>{`
-                .hero h1 { font-size: 2.5rem !important; }
+                .hero h1 span:first-child { fontSize: 4rem !important; }
+                .hero h1 span:last-child { fontSize: 1.5rem !important; }
+
                 .product-grid { 
                     display: grid; 
                     gap: 2rem; 
@@ -52,10 +57,13 @@ const Home = () => {
                 
                 @media (min-width: 640px) {
                     .product-grid { grid-template-columns: repeat(2, 1fr); }
+                    .hero h1 span:first-child { fontSize: 5rem !important; }
+                    .hero h1 span:last-child { fontSize: 2rem !important; }
                 }
                 
                 @media (min-width: 1024px) {
-                    .hero h1 { font-size: 3.5rem !important; }
+                    .hero h1 span:first-child { fontSize: 7rem !important; }
+                    .hero h1 span:last-child { fontSize: 2.5rem !important; }
                     .product-grid { grid-template-columns: repeat(3, 1fr); }
                 }
             `}</style>

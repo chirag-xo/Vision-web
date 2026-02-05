@@ -14,16 +14,20 @@ const Contact = () => {
                 {/* Contact Info - Order 3 on Mobile */}
                 <div className="contact-details">
                     <div style={{ marginBottom: '1.5rem' }}>
-                        <h3>Corporate Office</h3>
-                        <p><strong>Unit I:</strong> D-30, Industrial Area Bahadrabad, Haridwar-249402 Uttarakhand, INDIA</p>
+                        <h3>Our Units</h3>
+                        <p style={{ marginBottom: '0.5rem' }}><strong>Unit I:</strong> D-30, Industrial Area Bahadrabad, Haridwar-249402 Uttarakhand, INDIA</p>
+                        <p style={{ marginBottom: '0.5rem' }}><strong>Unit II:</strong> Bahadrabad, Haridwar-249402</p>
+                        <p style={{ marginBottom: '0.5rem' }}><strong>Unit III:</strong> Dausa, Rajasthan-303507</p>
+                        <p style={{ marginBottom: '0.5rem' }}><strong>Unit IV:</strong> Mandi Gobindgarh, Punjab</p>
+                        <p><strong>Warehouse I:</strong> 863, Hariom Nagar, Distt. Saraikella, Kharsawan, Jamshedpur, Jharkhand-832402</p>
                     </div>
                     <div style={{ marginBottom: '1.5rem' }}>
                         <h3>Email</h3>
-                        <p><a href="mailto:visionmetal2000@yahoo.com" style={{ color: 'var(--color-primary)' }}>visionmetal2000@yahoo.com</a></p>
-                        <p><a href="mailto:visionmetal2000@gmail.com" style={{ color: 'var(--color-primary)' }}>visionmetal2000@gmail.com</a></p>
-                        <p><a href="mailto:sales@visionmetalaids.net" style={{ color: 'var(--color-primary)' }}>sales@visionmetalaids.net</a></p>
-                        <p><a href="mailto:ashish@visionmetalaids.net" style={{ color: 'var(--color-primary)' }}>ashish@visionmetalaids.net</a></p>
-                        <p><a href="mailto:visionmetal3000@gmail.com" style={{ color: 'var(--color-primary)' }}>visionmetal3000@gmail.com</a></p>
+                        <p><a href="mailto:sales@visionmetalaids.com" style={{ color: 'var(--color-primary)' }}>sales@visionmetalaids.com</a></p>
+                        <p><a href="mailto:ashish@visionmetalaids.com" style={{ color: 'var(--color-primary)' }}>ashish@visionmetalaids.com</a></p>
+                        <p><a href="mailto:anurag@visionmetalaids.com" style={{ color: 'var(--color-primary)' }}>anurag@visionmetalaids.com</a></p>
+                        <p><a href="mailto:quality@visionmetalaids.com" style={{ color: 'var(--color-primary)' }}>quality@visionmetalaids.com</a></p>
+                        <p><a href="mailto:accounts@visionmetalaids.com" style={{ color: 'var(--color-primary)' }}>accounts@visionmetalaids.com</a></p>
                     </div>
                     <div style={{ marginBottom: '1.5rem' }}>
                         <h3>Phone</h3>

@@ -32,9 +32,14 @@ const Footer = () => {
                     <div className="footer-col">
                         <h4>Contact Us</h4>
                         <p style={{ fontSize: '0.9rem', marginBottom: '0.5rem' }}><strong>Unit I:</strong> D-30, Ind. Area Bahadrabad, Haridwar-249402</p>
+                        <p style={{ fontSize: '0.9rem', marginBottom: '0.5rem' }}><strong>Unit II:</strong> Bahadrabad, Haridwar-249402</p>
+                        <p style={{ fontSize: '0.9rem', marginBottom: '0.5rem' }}><strong>Unit III:</strong> Dausa, Rajasthan-303507</p>
+                        <p style={{ fontSize: '0.9rem', marginBottom: '0.5rem' }}><strong>Unit IV:</strong> Mandi Gobindgarh, Punjab</p>
+                        <p style={{ fontSize: '0.9rem', marginBottom: '0.5rem' }}><strong>Warehouse I:</strong> Jamshedpur, Jharkhand-832402</p>
                         <p style={{ fontSize: '0.9rem', marginBottom: '0.5rem' }}><strong>Ph:</strong> +91 98370 27988, +91 92196 94802</p>
                         <p style={{ fontSize: '0.9rem' }}>
-                            <a href="mailto:sales@visionmetalaids.net" style={{ color: 'white', textDecoration: 'none' }}>sales@visionmetalaids.net</a>
+                            <a href="mailto:sales@visionmetalaids.com" style={{ color: 'white', textDecoration: 'none', display: 'block', marginBottom: '0.25rem' }}>sales@visionmetalaids.com</a>
+                            <a href="mailto:ashish@visionmetalaids.com" style={{ color: 'white', textDecoration: 'none', display: 'block' }}>ashish@visionmetalaids.com</a>
                         </p>
                     </div>
                 </div>

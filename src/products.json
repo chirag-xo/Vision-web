@@ -1497,7 +1497,7 @@
   {
     "category": "Coatings",
     "slug": "coatings",
-    "subheading": "Premium refractory coatings for superior casting finish",
+    "description": "Premium refractory coatings for superior casting finish",
     "subProducts": [
       {
         "id": "varitek-series",
@@ -1505,7 +1505,7 @@
         "subCategory": "Varitek",
         "description": "Varitek water based coatings are available in all kind of refractory minerals like Zircon, Alumina Silicate, Graphite & mixed. It is best coating in their class. Its enhanced refractoriness, short matting time and application properties gives an edge to the coating and which results into a defect free casting. We have developed a series of Varitek coatings depending upon several variables like liquid metal type, casting geometry and type of moulding.",
         "images": [
-          "/assets/coatings-product-ref.png"
+          "/assets/varitek-new.png"
         ],
         "tableData": {
           "columns": [
@@ -1837,13 +1837,65 @@
     "category": "Carbon Additives",
     "slug": "carbon-additives",
     "description": "Lustrous carbon additives for sand systems.",
-    "products": [
+    "subProducts": [
       {
-        "name": "Metakol",
-        "specs": {
-          "Volatile Matter": "Various grades available",
-          "Ash": "Low"
-        }
+        "id": "metakol",
+        "title": "Metakol",
+        "subCategory": "Green Sand Coal Additives",
+        "description": "Metakol Green Sand Coal Additives is a high quality blended coal enriched with Lustrous Carbon for green sand moulding which reduces the wetability of molten metal onto the mould face due to different phenomena inside mould like reducing atmosphere, precipitation of lustrous carbon and softening/swelling of coal during heating, helps to fill voids in sand grains of mould, resulting in excellent sand peel off and surface finish of castings with reduced sand related defects. We are equipped with latest machines and technology to produce approx 12000 MT per annum.",
+        "images": [
+          "/assets/carbon-additives.png"
+        ],
+        "advantages": [
+          "Improves sand peel of the castings at shake out which reduces wastage of system sand.",
+          "Gives better surface finish to the castings.",
+          "It reduces shot blasting time and consumption of shots",
+          "Improves flow ability of sand which gives better compaction of sand per mould.",
+          "Reduces fettling time of the castings.",
+          "Our Metakol SPL ++ swells during burning and fill the sand grain voids which results in reduction of sand expansion and it helps sand related defects like scab and mould dilation.",
+          "Metakol helps in producing smooth and clean surface of the castings."
+        ],
+        "tableData": {
+          "columns": [
+            "Product",
+            "Volatile Matter",
+            "Ash Content",
+            "Fixed Carbon"
+          ],
+          "rows": [
+            [
+              "METAKOL-LA",
+              "50 + 3%",
+              "6% max",
+              "By difference"
+            ],
+            [
+              "METAKOL-N",
+              "55 + 5%",
+              "6% max",
+              "By difference"
+            ],
+            [
+              "METAKOL-SPL",
+              "45 + 5%",
+              "7% max",
+              "By difference"
+            ],
+            [
+              "METAKOL-SPL++",
+              "35 + 5%",
+              "7% max",
+              "By difference"
+            ],
+            [
+              "METAKOL 75",
+              "80 + 5%",
+              "3% max",
+              "By difference"
+            ]
+          ]
+        },
+        "footerNote": "* we do produce several different grades other then specified in table as per the customer requirement."
       }
     ]
   },
@@ -1870,6 +1922,37 @@
           "/assets/sm-tundish-1.png",
           "/assets/sm-tundish-2.png"
         ]
+      }
+    ]
+  },
+  {
+    "category": "Other Products",
+    "slug": "other-products",
+    "description": "We are also importing and dealing in a wide range of foundry consumables.",
+    "products": [
+      {
+        "name": "SIC Foam Filters"
+      },
+      {
+        "name": "Chromite Sand"
+      },
+      {
+        "name": "Ferro Alloys"
+      },
+      {
+        "name": "Carburizers"
+      },
+      {
+        "name": "GPC"
+      },
+      {
+        "name": "Neutral Ramming Mass"
+      },
+      {
+        "name": "White Heat A, K, C"
+      },
+      {
+        "name": "Castable and many more"
       }
     ]
   }
